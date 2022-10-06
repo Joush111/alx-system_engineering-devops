@@ -1,1 +1,1 @@
-(8)script that sets all permissions to other users only
+(9)script that sets the mode of the file hello
