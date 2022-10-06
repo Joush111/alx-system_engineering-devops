@@ -1,1 +1,1 @@
-(7)script for execution permission for owner, group and others
+(8)script that sets all permissions to other users only
