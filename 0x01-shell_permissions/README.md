@@ -1,1 +1,1 @@
-(2)script showing the effective username of the current user
+(3)script showing all groups the current user is part of
