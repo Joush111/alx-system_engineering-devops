@@ -1,1 +1,1 @@
-(3)script showing all groups the current user is part of
+(4)script to change the owner of the file
