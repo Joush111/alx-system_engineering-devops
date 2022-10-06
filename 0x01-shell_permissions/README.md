@@ -1,1 +1,1 @@
-(5)script that adds execute to the owner of the file hello
+(6)script that execute permission to the owner and the group owner, and read permission to other users, to the file hello
